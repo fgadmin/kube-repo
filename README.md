@@ -1,1 +1,2 @@
-# kube-repo
+This repostiory only used for Kubernetes
+
